@@ -1,3 +1,3 @@
 # Mainpy
 Syntax:
-python3 <filename>
+python3 [file name]
